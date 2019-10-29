@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  account_id: 1
+  amount: 1.5
+  kind: MyString
+  date: 2019-10-29 13:43:18
+  description: MyString
+
+two:
+  account_id: 1
+  amount: 1.5
+  kind: MyString
+  date: 2019-10-29 13:43:18
+  description: MyString
